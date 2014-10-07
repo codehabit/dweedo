@@ -1,0 +1,7 @@
+.col-lg-12
+  .col-lg-6
+    = bootstrap_form_for @restaurant do |f|
+      = f.text_field :name, placeholder: "Name", hide_label: true
+      = f.text_area :description, placeholder: "Description", hide_label: true
+      = f.submit "Get started"
+

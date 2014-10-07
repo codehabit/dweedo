@@ -1,0 +1,19 @@
+.topframe {
+  background-color: #7b8a8b;
+  li {
+    height: 100%;
+  }
+  a { color: $navbar-color;}
+  height: $navbar-height;
+}
+
+.topframe .bottom {
+  color: $navbar-color;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.topframe .bottom h1 {
+  margin-top: 17px;
+}
+

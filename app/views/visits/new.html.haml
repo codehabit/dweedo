@@ -1,0 +1,13 @@
+.col-lg-12
+  .col-lg-6
+    %h3= "Rate your visit at #{@restaurant.name}"
+    = bootstrap_form_for [:restaurant, @visit] do |f|
+      = f.hidden_field :restaurant, value: @restaurant
+      = f.fields_for @visit.ratings.build do |ratings_builder|
+        - Rating.types.each do |type|
+          - type_id = type.downcase.underscore
+          %h3= type
+          = ratings_builder.hidden_field :name, value: type
+          = ratings_builder.hidden_field :value, data: {role: "rating-#{type_id}" }
+          %div{data: {role: "slider", target: "[data-role='rating-#{type_id}']"}}
+
