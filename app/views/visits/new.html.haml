@@ -16,4 +16,20 @@
             %span{data: {role: "rating-display-#{type_id}"}}
       .row.ratings-submit
         = f.submit "Send your ratings", class: "btn btn-primary"
-
+  .col-lg-6
+    %h3= "Rate your visit at #{@restaurant.name}"
+    = bootstrap_form_for [:restaurant, @visit] do |f|
+      = f.hidden_field :restaurant_id, value: @restaurant.id
+      - Rating.types.each do |type|
+        .row
+          - type_id = type.downcase.underscore
+          .col-lg-6
+            %h3= type
+            = f.fields_for :ratings do |ratings_builder|
+              = ratings_builder.hidden_field :name, value: type
+              = ratings_builder.hidden_field :value, data: {role: "rating-#{type_id}" }
+              = button_tag "Terrible", class: "btn btn-primary rating-button", data: {role: "rating-button", target: "[data-role='rating-#{type_id}']", value: 0, type: type_id}
+              = button_tag "Meh", class: "btn btn-primary rating-button", data: {role: "rating-button", target: "[data-role='rating-#{type_id}']", value: 5, type: type_id}
+              = button_tag "Awesome!", class: "btn btn-primary rating-button", data: {role: "rating-button", target: "[data-role='rating-#{type_id}']", value: 10, type: type_id}
+      .row.ratings-submit
+        = f.submit "Send your ratings", class: "btn btn-primary"

@@ -10,3 +10,10 @@ $(document).on "ready page:load", ->
       $(target_display).text(val)
     step: 0.5
 
+  $(document).on "click", "[data-role='rating-button']", (evt) ->
+    evt.preventDefault()
+    $("[data-type='#{$(this).data("type")}']").removeClass("selected")
+    $(this).addClass("selected")
+    target = $(this).data("target")
+    $(target).val($(this).data("value"))
+
