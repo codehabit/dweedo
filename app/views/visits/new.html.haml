@@ -2,12 +2,18 @@
   .col-lg-6
     %h3= "Rate your visit at #{@restaurant.name}"
     = bootstrap_form_for [:restaurant, @visit] do |f|
-      = f.hidden_field :restaurant, value: @restaurant
-      = f.fields_for @visit.ratings.build do |ratings_builder|
-        - Rating.types.each do |type|
+      = f.hidden_field :restaurant_id, value: @restaurant.id
+      - Rating.types.each do |type|
+        .row
           - type_id = type.downcase.underscore
-          %h3= type
-          = ratings_builder.hidden_field :name, value: type
-          = ratings_builder.hidden_field :value, data: {role: "rating-#{type_id}" }
-          %div{data: {role: "slider", target: "[data-role='rating-#{type_id}']"}}
+          .col-lg-5
+            %h3= type
+            = f.fields_for :ratings do |ratings_builder|
+              = ratings_builder.hidden_field :name, value: type
+              = ratings_builder.hidden_field :value, data: {role: "rating-#{type_id}" }
+            .rating-slider{data: {role: "slider", target: "[data-role='rating-#{type_id}']", target_display: "[data-role='rating-display-#{type_id}']"}}
+          .col-lg-1.rating-display
+            %span{data: {role: "rating-display-#{type_id}"}}
+      .row.ratings-submit
+        = f.submit "Send your ratings", class: "btn btn-primary"
 
