@@ -6,7 +6,6 @@ class VisitsController < ApplicationController
   end
 
   def create
-    binding.pry
     visit = Visit.create(visit_params)
     redirect_to restaurant_path(visit.restaurant)
   end
