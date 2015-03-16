@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
-gem 'rails', '4.1.5'
+gem 'rails', '~> 4.2.0'
 gem 'pg'
 gem 'haml'
-gem 'sass-rails', '~> 4.0.3'
+gem 'sass-rails', '~> 5.0.0.beta1'
+gem 'sass-rails-source-maps'
+gem 'rack', git: "git@github.com:rack/rack.git"
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'therubyracer',  platforms: :ruby
@@ -12,16 +14,17 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'unicorn'
-gem 'bootstrap-sass-rails'
+gem 'bootstrap-sass'
 gem 'kaminari'
 gem 'settingslogic'
 gem 'font-awesome-sass'
 gem 'bootstrap_form'
+gem 'puma'
 
 group :development do
   gem 'spring'
   gem 'capistrano-rails'
-  gem 'thin'
+  # gem 'thin'
 end
 
 group :test, :development do

@@ -1,0 +1,32 @@
+nav.navbar-default {
+  background-color: $navbar-bg;
+  border-radius: 0;
+  height: $navbar-height;
+}
+
+.navbar-default .navbar-nav li a {
+  color: $navbar-color;
+}
+
+.brand-slot {
+  padding: 10px 0px 0px 15px;
+}
+
+.navbar-default .navbar-brand {
+  background: no-repeat url(image-path('logo.png'));
+  height: $navbar-height;
+  width: 210px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: $navbar-color;
+}
+
+.links-bar,.brand-slot {
+  display: inline-block;
+}
+
+.links-bar {
+  padding-bottom: 10px;
+}
+

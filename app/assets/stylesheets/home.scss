@@ -21,3 +21,9 @@ a { text-decoration: none !important; }
     color: $body-text-color;
   }
 }
+
+h1 .logo {
+  background: url(image-path("logo.png")) no-repeat;
+  line-height: 10;
+  height: 100%;
+}
