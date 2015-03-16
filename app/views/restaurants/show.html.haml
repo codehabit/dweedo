@@ -1,1 +1,7 @@
 = @restaurant.name
+= @restaurant.description
+- @restaurant.addresses.each do |address|
+  = address.street_address
+  = address.city
+  = address.state
+  = address.zip_code

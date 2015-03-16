@@ -8,6 +8,7 @@ class RestaurantsController < ApplicationController
 
   def new
     @restaurant = Restaurant.new
+    @restaurant.addresses.build if @restaurant.addresses.blank?
   end
 
   def create
