@@ -1,0 +1,11 @@
+.hero-column.ratings
+  %h3
+    Would you recommend
+    %br
+    #{@restaurant.name} #{@location.known_as} to a friend?
+  = form_for [@restaurant, @location] do |f|
+    = f.fields_for @location.ultimate_ratings.build do |builder|
+      = builder.hidden_field :recommended, value: true, data: {role: "ultimate-rating-value-holder"}
+      = builder.button "I don't think so :(", data: {role: "ultimate-rater", value: "false"}, class: "btn btn-primary btn-ultimate-no"
+      = builder.button "You bet!", data: {role: "ultimate-rater", value: "true"}, class: "btn btn-primary"
+

@@ -1,0 +1,5424 @@
+<?xml version="1.0"?>
+<typemap>
+
+  <type
+     format="ttf"
+     name="CalculatorKeys"
+     fullname="CalculatorKeys"
+     family="CalculatorKeys"
+     glyphs="/Applications/Calculator.app/Contents/PlugIns/BasicAndSci.calcview/Contents/Resources/CalculatorKeys.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="caecilialtstd-bold-webfont"
+     glyphs="/Applications/Evernote.app/Contents/Resources/atlas/css/fonts/caecilialtstd-bold-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AScore"
+     fullname="AScore"
+     family="AScore"
+     glyphs="/Applications/GarageBand.app/Contents/Resources/AScore.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AScoreParts"
+     fullname="AScoreParts"
+     family="AScoreParts"
+     glyphs="/Applications/GarageBand.app/Contents/Resources/AScoreParts.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GBMetro24Mono"
+     fullname="GBMetro24Mono"
+     family="GBMetro24Mono"
+     glyphs="/Applications/GarageBand.app/Contents/Resources/Fonts/GBMetro24Mono.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GBMetro24Prop"
+     fullname="GBMetro24Prop"
+     family="GBMetro24Prop"
+     glyphs="/Applications/GarageBand.app/Contents/Resources/Fonts/GBMetro24Prop.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GBMetro34"
+     fullname="GBMetro34"
+     family="GBMetro34"
+     glyphs="/Applications/GarageBand.app/Contents/Resources/Fonts/GBMetro34.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="ArimoB"
+     fullname="Arimo Bold"
+     family="Arimo"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Arimo-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="ArimoBI"
+     fullname="Arimo Bold Italic"
+     family="Arimo"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Arimo-BoldItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="ArimoI"
+     fullname="Arimo Italic"
+     family="Arimo"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Arimo-Italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Arimo"
+     fullname="Arimo"
+     family="Arimo"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Arimo-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="CousineB"
+     fullname="Cousine Bold"
+     family="Cousine"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Cousine-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="CousineBI"
+     fullname="Cousine Bold Italic"
+     family="Cousine"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Cousine-BoldItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="CousineI"
+     fullname="Cousine Italic"
+     family="Cousine"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Cousine-Italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Cousine"
+     fullname="Cousine"
+     family="Cousine"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Cousine-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansB"
+     fullname="DejaVu Sans Bold"
+     family="DejaVu Sans"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSans-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansBOb"
+     fullname="DejaVu Sans Bold Oblique"
+     family="DejaVu Sans"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSans-BoldOblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansExtraLight"
+     fullname="DejaVu Sans ExtraLight"
+     family="DejaVu Sans Light"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSans-ExtraLight.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansOb"
+     fullname="DejaVu Sans Oblique"
+     family="DejaVu Sans"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSans-Oblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSans"
+     fullname="DejaVu Sans"
+     family="DejaVu Sans"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSans.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansCB"
+     fullname="DejaVu Sans Condensed Bold"
+     family="DejaVu Sans Condensed"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSansCondensed-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansCBOb"
+     fullname="DejaVu Sans Condensed Bold Oblique"
+     family="DejaVu Sans Condensed"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSansCondensed-BoldOblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansCOb"
+     fullname="DejaVu Sans Condensed Oblique"
+     family="DejaVu Sans Condensed"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSansCondensed-Oblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansC"
+     fullname="DejaVu Sans Condensed"
+     family="DejaVu Sans Condensed"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSansCondensed.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansMonoB"
+     fullname="DejaVu Sans Mono Bold"
+     family="DejaVu Sans Mono"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSansMono-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansMonoBOb"
+     fullname="DejaVu Sans Mono Bold Oblique"
+     family="DejaVu Sans Mono"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSansMono-BoldOblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansMonoOb"
+     fullname="DejaVu Sans Mono Oblique"
+     family="DejaVu Sans Mono"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSansMono-Oblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSansMono"
+     fullname="DejaVu Sans Mono"
+     family="DejaVu Sans Mono"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSansMono.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSerifB"
+     fullname="DejaVu Serif Bold"
+     family="DejaVu Serif"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSerif-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSerifBI"
+     fullname="DejaVu Serif Bold Italic"
+     family="DejaVu Serif"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSerif-BoldItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSerifI"
+     fullname="DejaVu Serif Italic"
+     family="DejaVu Serif"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSerif-Italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSerif"
+     fullname="DejaVu Serif"
+     family="DejaVu Serif"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSerif.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSerifCB"
+     fullname="DejaVu Serif Condensed Bold"
+     family="DejaVu Serif Condensed"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSerifCondensed-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSerifCBI"
+     fullname="DejaVu Serif Condensed Bold Italic"
+     family="DejaVu Serif Condensed"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSerifCondensed-BoldItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSerifCI"
+     fullname="DejaVu Serif Condensed Italic"
+     family="DejaVu Serif Condensed"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSerifCondensed-Italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSerifC"
+     fullname="DejaVu Serif Condensed"
+     family="DejaVu Serif Condensed"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/DejaVuSerifCondensed.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GentiumBasicB"
+     fullname="Gentium Basic Bold"
+     family="Gentium Basic"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/GenBasB.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GentiumBasicBI"
+     fullname="Gentium Basic Bold Italic"
+     family="Gentium Basic"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/GenBasBI.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GentiumBasicI"
+     fullname="Gentium Basic Italic"
+     family="Gentium Basic"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/GenBasI.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GentiumBasic"
+     fullname="Gentium Basic"
+     family="Gentium Basic"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/GenBasR.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GentiumBookBasicB"
+     fullname="Gentium Book Basic Bold"
+     family="Gentium Book Basic"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/GenBkBasB.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GentiumBookBasicBI"
+     fullname="Gentium Book Basic Bold Italic"
+     family="Gentium Book Basic"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/GenBkBasBI.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GentiumBookBasicI"
+     fullname="Gentium Book Basic Italic"
+     family="Gentium Book Basic"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/GenBkBasI.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GentiumBookBasic"
+     fullname="Gentium Book Basic"
+     family="Gentium Book Basic"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/GenBkBasR.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SymbolNeu"
+     fullname="Symbol Neu"
+     family="Symbol Neu"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/SymbolNeu.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="TinosB"
+     fullname="Tinos Bold"
+     family="Tinos"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Tinos-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="TinosBI"
+     fullname="Tinos Bold Italic"
+     family="Tinos"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Tinos-BoldItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="TinosI"
+     fullname="Tinos Italic"
+     family="Tinos"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Tinos-Italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Tinos"
+     fullname="Tinos"
+     family="Tinos"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/Tinos-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSymbol"
+     fullname="OpenSymbol"
+     family="OpenSymbol"
+     glyphs="/Applications/OpenOffice.app/Contents/share/fonts/truetype/opens___.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoBk"
+     fullname="Lato Black"
+     family="Lato Black"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/Lato-Black.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoBkI"
+     fullname="Lato Black Italic"
+     family="Lato Black"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/Lato-BlackItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoB"
+     fullname="Lato Bold"
+     family="Lato"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/Lato-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoBI"
+     fullname="Lato Bold Italic"
+     family="Lato"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/Lato-BoldItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato Italic"
+     family="Lato"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/Lato-Italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato Regular"
+     family="Lato"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/ui/lib/bootstrap-3.1.1/fonts/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/ui/lib/font-awesome-3.2.1/font/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Coolvetica"
+     fullname="Coolvetica"
+     family="Coolvetica"
+     glyphs="/Applications/Shoes.app/Contents/MacOS/fonts/Coolvetica.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lacuna"
+     fullname="Lacuna Regular"
+     family="Lacuna Regular"
+     glyphs="/Applications/Shoes.app/Contents/MacOS/fonts/Lacuna.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Coolvetica"
+     fullname="Coolvetica"
+     family="Coolvetica"
+     glyphs="/Applications/Shoes.app/Contents/MacOS/fonts/fonts/Coolvetica.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lacuna"
+     fullname="Lacuna Regular"
+     family="Lacuna Regular"
+     glyphs="/Applications/Shoes.app/Contents/MacOS/fonts/fonts/Lacuna.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SkypeUISymbolB"
+     fullname="Skype UI Symbol Bold"
+     family="Skype UI Symbol"
+     glyphs="/Applications/Skype.app/Contents/Resources/Fonts/SkypeUISymbol-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SkypeUISymbol"
+     fullname="Skype UI Symbol"
+     family="Skype UI Symbol"
+     glyphs="/Applications/Skype.app/Contents/Resources/Fonts/SkypeUISymbol-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUI"
+     fullname="Segoe UI"
+     family="Segoe UI"
+     glyphs="/Applications/Skype.app/Contents/Resources/Fonts/segoeui.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUIB"
+     fullname="Segoe UI Bold"
+     family="Segoe UI"
+     glyphs="/Applications/Skype.app/Contents/Resources/Fonts/segoeuib.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUIL"
+     fullname="Segoe UI Light"
+     family="Segoe UI Light"
+     glyphs="/Applications/Skype.app/Contents/Resources/Fonts/segoeuil.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUISemilight"
+     fullname="Segoe UI Semilight"
+     family="Segoe UI Semilight"
+     glyphs="/Applications/Skype.app/Contents/Resources/Fonts/segoeuisl.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUISemibold"
+     fullname="Segoe UI Semibold"
+     family="Segoe UI Semibold"
+     glyphs="/Applications/Skype.app/Contents/Resources/Fonts/seguisb.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUIL"
+     fullname="Segoe UI Light"
+     family=""
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-light-arabic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Untitled"
+     fullname="Untitled Regular"
+     family="Untitled"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-light-cyrillic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Untitled"
+     fullname="Untitled Regular"
+     family="Untitled"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-light-greek.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Untitled"
+     fullname="Untitled Regular"
+     family="Untitled"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-light-hebrew.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Untitled"
+     fullname="Untitled Regular"
+     family="Untitled"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-light-latin.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUI"
+     fullname="Segoe UI"
+     family=""
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-regular-arabic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUI"
+     fullname="Segoe UI Regular"
+     family="Segoe UI"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-regular-cyrillic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Untitled"
+     fullname="Untitled Regular"
+     family="Untitled"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-regular-greek.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Untitled"
+     fullname="Untitled Regular"
+     family="Untitled"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-regular-hebrew.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Untitled"
+     fullname="Untitled Regular"
+     family="Untitled"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-regular-latin.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUISemibold"
+     fullname="Segoe UI Semibold"
+     family=""
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-semibold-arabic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUISemibold"
+     fullname="Segoe UI Semibold Regular"
+     family="Segoe UI Semibold"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-semibold-cyrillic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUISemibold"
+     fullname="Segoe UI Semibold Regular"
+     family="Segoe UI Semibold"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-semibold-greek.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUISemibold"
+     fullname="Segoe UI Semibold Regular"
+     family="Segoe UI Semibold"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-semibold-hebrew.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SegoeUISemibold"
+     fullname="Segoe UI Semibold Regular"
+     family="Segoe UI Semibold"
+     glyphs="/Applications/Skype.app/Contents/Resources/WebLogin/fonts/segoe-ui-semibold-latin.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoBk"
+     fullname="Lato Black"
+     family="Lato Black"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Black.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoBkI"
+     fullname="Lato Black Italic"
+     family="Lato Black"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-BlackItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoB"
+     fullname="Lato Bold"
+     family="Lato"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoBI"
+     fullname="Lato Bold Italic"
+     family="Lato"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-BoldItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoHairline"
+     fullname="Lato Hairline"
+     family="Lato Hairline"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Hairline.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoHairlineI"
+     fullname="Lato Hairline Italic"
+     family="Lato Hairline"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-HairlineItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoH"
+     fullname="Lato Heavy"
+     family="Lato Heavy"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Heavy.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoHI"
+     fullname="Lato Heavy Italic"
+     family="Lato Heavy"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-HeavyItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato Italic"
+     family="Lato"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato Light"
+     family="Lato Light"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLI"
+     fullname="Lato Light Italic"
+     family="Lato Light"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoM"
+     fullname="Lato Medium"
+     family="Lato Medium"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Medium.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoMI"
+     fullname="Lato Medium Italic"
+     family="Lato Medium"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-MediumItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato Regular"
+     family="Lato"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoSemibold"
+     fullname="Lato Semibold"
+     family="Lato Semibold"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoSemiboldI"
+     fullname="Lato Semibold Italic"
+     family="Lato Semibold"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-SemiboldItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoThin"
+     fullname="Lato Thin"
+     family="Lato Thin"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-Thin.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoThinI"
+     fullname="Lato Thin Italic"
+     family="Lato Thin"
+     glyphs="/Applications/Slack.app/Contents/Resources/Fonts/Lato/Lato-ThinItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Invis"
+     fullname="Invis"
+     family="Invis"
+     glyphs="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/iWorkImport.framework/invisible_glyphs.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/share/couchdb/www/fauxton/img/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="fontcustom_fauxton"
+     fullname="fontcustom_fauxton"
+     family="fontcustom_fauxton"
+     glyphs="/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/share/couchdb/www/fauxton/img/fontcustom_fauxton.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="XcodeDigits"
+     fullname="Xcode Digits"
+     family="Xcode Digits"
+     glyphs="/Applications/Xcode.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/Fonts/XcodeDigits-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Invis"
+     fullname="Invis"
+     family="Invis"
+     glyphs="/Applications/iBooks.app/Contents/PlugIns/iBAReaderKit.bundle/Contents/Resources/invisible_glyphs.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AvenirBkOb"
+     fullname="Avenir Black Oblique"
+     family="Avenir Black Oblique"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/AvenirBlackOblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AvianoSansB"
+     fullname="Aviano Sans Bold"
+     family="Aviano Sans"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/AvianoSansBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BasicCommercialB"
+     fullname="Basic Commercial Bold"
+     family="Basic Commercial"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/BasicCommercialLTCom-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BeaufortPro"
+     fullname="BeaufortPro"
+     family="Beaufort Pro"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/BeaufortPro.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Coolvetica"
+     fullname="Coolvetica"
+     family="Coolvetica"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Coolvetica.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DDTB"
+     fullname="DDT-Bold"
+     family="DDT"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/DDT-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DDTCondensedSemibold"
+     fullname="DDT-CondensedSemibold"
+     family="DDT"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/DDT-condensedsemibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Duality"
+     fullname="Duality-Regular"
+     family="Duality"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Duality.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="EngraversGothic"
+     fullname="Engravers Gothic"
+     family="Engravers Gothic"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/EngraversGothic-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GaramondRoughHEFM"
+     fullname="GaramondRoughHEF-Medium"
+     family="Garamond Rough Medium"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/GaramondRoughHEF-Medium.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GaramondRoughHEF"
+     fullname="GaramondRoughHEF-Reg"
+     family="Garamond Rough"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/GaramondRoughHEF-Reg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Georgia"
+     fullname="Georgia"
+     family="Georgia"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Georgia.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GillSansUltraBold"
+     fullname="Gill Sans UltraBold"
+     family="Gill Sans"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/GillSansUltraBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="HopperScript"
+     fullname="Hopper Script Regular"
+     family="Hopper Script"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/HopperScript.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Loopiejuice"
+     fullname="Loopiejuice-Regular"
+     family="Loopiejuice"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Loopiejuice-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Luminari"
+     fullname="Luminari"
+     family="Luminari"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Luminari-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Meloriac"
+     fullname="Meloriac Regular"
+     family="Meloriac"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Meloriac.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OldEnglishText"
+     fullname="Old English Text"
+     family="Old English Text"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/OldEnglishText-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OperinaPro"
+     fullname="Operina Pro"
+     family="Operina Pro"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/OperinaPro.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Paleographic"
+     fullname="Paleographic Regular"
+     family="Paleographic"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Paleographic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Posterboard"
+     fullname="Posterboard"
+     family="Posterboard"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Posterboard.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SabonPro"
+     fullname="Sabon Pro"
+     family="Sabon Pro"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/SabonLTPro-Roman.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Shababa"
+     fullname="Shababa"
+     family="Shababa"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Shababa.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SketchBlockL"
+     fullname="Sketch Block Light"
+     family="Sketch Block Light"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/SketchBlock-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Strenuous"
+     fullname="Strenuous"
+     family="Strenuous"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Strenuous.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Superclarendon"
+     fullname="Superclarendon Regular"
+     family="Superclarendon"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Superclarendon.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Trattatello"
+     fullname="Trattatello"
+     family="Trattatello"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Trattatello.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="VIP"
+     fullname="VIP"
+     family="VIP"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/VIP.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FCMetro34"
+     fullname="FCMetro34"
+     family="FCMetro34"
+     glyphs="/Applications/iMovie.app/Contents/Resources/Fonts/FCMetro34.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="HopperScript"
+     fullname="Hopper Script Regular"
+     family="Hopper Script"
+     glyphs="/Applications/iPhoto.app/Contents/Frameworks/RedRock.framework/Versions/A/Resources/Fonts/HopperScript.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Coolvetica"
+     fullname="Coolvetica"
+     family="Coolvetica"
+     glyphs="/Applications/iPhoto.app/Contents/Frameworks/iLifeSlideshow.framework/Versions/A/Resources/Content/Fonts/Coolvetica.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="HopperScript"
+     fullname="Hopper Script Regular"
+     family="Hopper Script"
+     glyphs="/Applications/iPhoto.app/Contents/Frameworks/iLifeSlideshow.framework/Versions/A/Resources/Content/Fonts/HopperScript.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Braganza"
+     fullname="Braganza"
+     family="Braganza"
+     glyphs="/Applications/iPhoto.app/Contents/Resources/Fonts/Braganza.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="HopperScript"
+     fullname="Hopper Script Regular"
+     family="Hopper Script"
+     glyphs="/Applications/iPhoto.app/Contents/Resources/Fonts/HopperScript.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Superclarendon"
+     fullname="Superclarendon Regular"
+     family="Superclarendon"
+     glyphs="/Applications/iPhoto.app/Contents/Resources/Fonts/Superclarendon.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="HopperScript"
+     fullname="Hopper Script Regular"
+     family="Hopper Script"
+     glyphs="/Applications/iPhoto.app/Contents/Resources/HopperScript.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Superclarendon"
+     fullname="Superclarendon Regular"
+     family="Superclarendon"
+     glyphs="/Applications/iPhoto.app/Contents/Resources/Superclarendon.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AppleGothic"
+     fullname="AppleGothic Regular"
+     family="AppleGothic"
+     glyphs="/Library/Fonts/AppleGothic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AppleMyungjo"
+     fullname="AppleMyungjo Regular"
+     family="AppleMyungjo"
+     glyphs="/Library/Fonts/AppleMyungjo.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Arial"
+     fullname="Arial"
+     family="Arial"
+     glyphs="/Library/Fonts/Arial.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Ayuthaya"
+     fullname="Ayuthaya"
+     family="Ayuthaya"
+     glyphs="/Library/Fonts/Ayuthaya.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BigCaslonM"
+     fullname="Big Caslon Medium"
+     family="Big Caslon"
+     glyphs="/Library/Fonts/BigCaslon.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Chalkduster"
+     fullname="Chalkduster"
+     family="Chalkduster"
+     glyphs="/Library/Fonts/Chalkduster.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Farisi"
+     fullname="Farisi Regular"
+     family="Farisi"
+     glyphs="/Library/Fonts/Farisi.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Georgia"
+     fullname="Georgia"
+     family="Georgia"
+     glyphs="/Library/Fonts/Georgia.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Gujarati"
+     fullname="Gujarati MT"
+     family="Gujarati "
+     glyphs="/Library/Fonts/GujaratiMT.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GujaratiB"
+     fullname="Gujarati MT Bold"
+     family="Gujarati "
+     glyphs="/Library/Fonts/GujaratiMTBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GungSeo"
+     fullname="GungSeo Regular"
+     family="GungSeo"
+     glyphs="/Library/Fonts/Gungseouche.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Gurmukhi"
+     fullname="Gurmukhi MT"
+     family="Gurmukhi "
+     glyphs="/Library/Fonts/Gurmukhi.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="HeadLineA"
+     fullname="HeadLineA Regular"
+     family="HeadLineA"
+     glyphs="/Library/Fonts/HeadlineA.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Herculanum"
+     fullname="Herculanum"
+     family="Herculanum"
+     glyphs="/Library/Fonts/Herculanum.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Impact"
+     fullname="Impact"
+     family="Impact"
+     glyphs="/Library/Fonts/Impact.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="InaiMathi"
+     fullname="InaiMathi"
+     family="InaiMathi"
+     glyphs="/Library/Fonts/InaiMathi.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Kailasa"
+     fullname="Kailasa Regular"
+     family="Kailasa"
+     glyphs="/Library/Fonts/Kailasa.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Kokonor"
+     fullname="Kokonor Regular"
+     family="Kokonor"
+     glyphs="/Library/Fonts/Kokonor.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Krungthep"
+     fullname="Krungthep"
+     family="Krungthep"
+     glyphs="/Library/Fonts/Krungthep.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Luminari"
+     fullname="Luminari"
+     family="Luminari"
+     glyphs="/Library/Fonts/Luminari.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Arial"
+     fullname="Arial"
+     family="Arial"
+     glyphs="/Library/Fonts/Microsoft/Arial.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Batang"
+     fullname="Batang"
+     family="Batang"
+     glyphs="/Library/Fonts/Microsoft/Batang.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Calibri"
+     fullname="Calibri"
+     family="Calibri"
+     glyphs="/Library/Fonts/Microsoft/Calibri.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="CalibriL"
+     fullname="Calibri Light"
+     family="Calibri Light"
+     glyphs="/Library/Fonts/Microsoft/Calibril.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Cambria"
+     fullname="Cambria"
+     family="Cambria"
+     glyphs="/Library/Fonts/Microsoft/Cambria.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Candara"
+     fullname="Candara"
+     family="Candara"
+     glyphs="/Library/Fonts/Microsoft/Candara.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Consolas"
+     fullname="Consolas"
+     family="Consolas"
+     glyphs="/Library/Fonts/Microsoft/Consolas.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Constantia"
+     fullname="Constantia"
+     family="Constantia"
+     glyphs="/Library/Fonts/Microsoft/Constantia.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Corbel"
+     fullname="Corbel"
+     family="Corbel"
+     glyphs="/Library/Fonts/Microsoft/Corbel.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Gabriola"
+     fullname="Gabriola"
+     family="Gabriola"
+     glyphs="/Library/Fonts/Microsoft/Gabriola.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Gulim"
+     fullname="Gulim"
+     family="Gulim"
+     glyphs="/Library/Fonts/Microsoft/Gulim.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Marlett"
+     fullname="Marlett"
+     family="Marlett"
+     glyphs="/Library/Fonts/Microsoft/Marlett.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Meiryo"
+     fullname="Meiryo"
+     family="Meiryo"
+     glyphs="/Library/Fonts/Microsoft/Meiryo.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MingLiUExtB"
+     fullname="MingLiU-ExtB"
+     family="MingLiU-ExtB"
+     glyphs="/Library/Fonts/Microsoft/MingLiU-ExtB.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MingLiU"
+     fullname="MingLiU"
+     family="MingLiU"
+     glyphs="/Library/Fonts/Microsoft/MingLiU.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MingLiU_HKSCSExtB"
+     fullname="MingLiU_HKSCS-ExtB"
+     family="MingLiU_HKSCS-ExtB"
+     glyphs="/Library/Fonts/Microsoft/MingLiU_HKSCS-ExtB.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PMingLiUExtB"
+     fullname="PMingLiU-ExtB"
+     family="PMingLiU-ExtB"
+     glyphs="/Library/Fonts/Microsoft/PMingLiU-ExtB.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PMingLiU"
+     fullname="PMingLiU"
+     family="PMingLiU"
+     glyphs="/Library/Fonts/Microsoft/PMingLiU.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Perpetua"
+     fullname="Perpetua"
+     family="Perpetua"
+     glyphs="/Library/Fonts/Microsoft/Perpetua.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SimHei"
+     fullname="SimHei"
+     family="SimHei"
+     glyphs="/Library/Fonts/Microsoft/SimHei.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SimSunExtB"
+     fullname="SimSun-ExtB"
+     family="SimSun-ExtB"
+     glyphs="/Library/Fonts/Microsoft/SimSun-ExtB.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SimSun"
+     fullname="SimSun"
+     family="SimSun"
+     glyphs="/Library/Fonts/Microsoft/SimSun.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MicrosoftTaiLeB"
+     fullname="Microsoft Tai Le Bold"
+     family="Microsoft Tai Le"
+     glyphs="/Library/Fonts/Microsoft/TaiLeb.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Verdana"
+     fullname="Verdana"
+     family="Verdana"
+     glyphs="/Library/Fonts/Microsoft/Verdana.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Wingdings"
+     fullname="Wingdings"
+     family="Wingdings"
+     glyphs="/Library/Fonts/Microsoft/Wingdings.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MicrosoftHimalaya"
+     fullname="Microsoft Himalaya"
+     family="Microsoft Himalaya"
+     glyphs="/Library/Fonts/Microsoft/himalaya.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MingLiU_HKSCS"
+     fullname="MingLiU_HKSCS"
+     family="MingLiU_HKSCS"
+     glyphs="/Library/Fonts/Microsoft/mingliu_hkscs.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MongolianBaiti"
+     fullname="Mongolian Baiti"
+     family="Mongolian Baiti"
+     glyphs="/Library/Fonts/Microsoft/monbaiti.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MicrosoftYiBaiti"
+     fullname="Microsoft Yi Baiti"
+     family="Microsoft Yi Baiti"
+     glyphs="/Library/Fonts/Microsoft/msyi.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MicrosoftTaiLe"
+     fullname="Microsoft Tai Le"
+     family="Microsoft Tai Le"
+     glyphs="/Library/Fonts/Microsoft/taile.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Mishafi"
+     fullname="Mishafi Regular"
+     family="Mishafi"
+     glyphs="/Library/Fonts/Mishafi.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MshtakanB"
+     fullname="Mshtakan Bold"
+     family="Mshtakan"
+     glyphs="/Library/Fonts/MshtakanBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MshtakanBoldOblique"
+     fullname="Mshtakan BoldOblique"
+     family="Mshtakan"
+     glyphs="/Library/Fonts/MshtakanBoldOblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MshtakanOb"
+     fullname="Mshtakan Oblique"
+     family="Mshtakan"
+     glyphs="/Library/Fonts/MshtakanOblique.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Mshtakan"
+     fullname="Mshtakan"
+     family="Mshtakan"
+     glyphs="/Library/Fonts/MshtakanRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GB18030Bitmap"
+     fullname="GB18030 Bitmap"
+     family="GB18030 Bitmap"
+     glyphs="/Library/Fonts/NISC18030.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Osaka"
+     fullname="Osaka"
+     family="Osaka"
+     glyphs="/Library/Fonts/Osaka.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OsakaMono"
+     fullname="Osaka-Mono"
+     family="Osaka"
+     glyphs="/Library/Fonts/OsakaMono.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PCMyungjo"
+     fullname="PCMyungjo Regular"
+     family="PCMyungjo"
+     glyphs="/Library/Fonts/PCmyoungjo.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PilGi"
+     fullname="PilGi Regular"
+     family="PilGi"
+     glyphs="/Library/Fonts/Pilgiche.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PlantagenetCherokee"
+     fullname="Plantagenet Cherokee"
+     family="Plantagenet Cherokee"
+     glyphs="/Library/Fonts/PlantagenetCherokee.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Sathu"
+     fullname="Sathu"
+     family="Sathu"
+     glyphs="/Library/Fonts/Sathu.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Silom"
+     fullname="Silom"
+     family="Silom"
+     glyphs="/Library/Fonts/Silom.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Skia"
+     fullname="Skia"
+     family="Skia"
+     glyphs="/Library/Fonts/Skia.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Tahoma"
+     fullname="Tahoma"
+     family="Tahoma"
+     glyphs="/Library/Fonts/Tahoma.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Trattatello"
+     fullname="Trattatello"
+     family="Trattatello"
+     glyphs="/Library/Fonts/Trattatello.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Verdana"
+     fullname="Verdana"
+     family="Verdana"
+     glyphs="/Library/Fonts/Verdana.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Webdings"
+     fullname="Webdings"
+     family="Webdings"
+     glyphs="/Library/Fonts/Webdings.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Wingdings"
+     fullname="Wingdings"
+     family="Wingdings"
+     glyphs="/Library/Fonts/Wingdings.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Zapfino"
+     fullname="Zapfino"
+     family="Zapfino"
+     glyphs="/Library/Fonts/Zapfino.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STFangsong"
+     fullname="STFangsong"
+     family="STFangsong"
+     glyphs="/Library/Fonts/åæä»¿å®.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STXihei"
+     fullname="STXihei"
+     family="STHeiti"
+     glyphs="/Library/Fonts/åæç»é».ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STHeiti"
+     fullname="STHeiti"
+     family="STHeiti"
+     glyphs="/Library/Fonts/åæé»ä½.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightDb"
+     fullname="Lucida Bright Demibold"
+     family="Lucida Bright"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/jre/lib/fonts/LucidaBrightDemiBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightDbI"
+     fullname="Lucida Bright Demibold Italic"
+     family="Lucida Bright"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/jre/lib/fonts/LucidaBrightDemiItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightI"
+     fullname="Lucida Bright Italic"
+     family="Lucida Bright"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/jre/lib/fonts/LucidaBrightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBright"
+     fullname="Lucida Bright Regular"
+     family="Lucida Bright"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/jre/lib/fonts/LucidaBrightRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansDb"
+     fullname="Lucida Sans Demibold"
+     family="Lucida Sans"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/jre/lib/fonts/LucidaSansDemiBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSans"
+     fullname="Lucida Sans Regular"
+     family="Lucida Sans"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/jre/lib/fonts/LucidaSansRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansTypewriterB"
+     fullname="Lucida Sans Typewriter Bold"
+     family="Lucida Sans Typewriter"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/jre/lib/fonts/LucidaTypewriterBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansTypewriter"
+     fullname="Lucida Sans Typewriter Regular"
+     family="Lucida Sans Typewriter"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/jre/lib/fonts/LucidaTypewriterRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightDb"
+     fullname="Lucida Bright Demibold"
+     family="Lucida Bright"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/fonts/LucidaBrightDemiBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightDbI"
+     fullname="Lucida Bright Demibold Italic"
+     family="Lucida Bright"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/fonts/LucidaBrightDemiItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightI"
+     fullname="Lucida Bright Italic"
+     family="Lucida Bright"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/fonts/LucidaBrightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBright"
+     fullname="Lucida Bright Regular"
+     family="Lucida Bright"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/fonts/LucidaBrightRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansDb"
+     fullname="Lucida Sans Demibold"
+     family="Lucida Sans"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/fonts/LucidaSansDemiBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSans"
+     fullname="Lucida Sans Regular"
+     family="Lucida Sans"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/fonts/LucidaSansRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansTypewriterB"
+     fullname="Lucida Sans Typewriter Bold"
+     family="Lucida Sans Typewriter"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/fonts/LucidaTypewriterBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansTypewriter"
+     fullname="Lucida Sans Typewriter Regular"
+     family="Lucida Sans Typewriter"
+     glyphs="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/fonts/LucidaTypewriterRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Invis"
+     fullname="Invis"
+     family="Invis"
+     glyphs="/Library/QuickLook/iWork.qlgenerator/Contents/Resources/invisible_glyphs.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Keyboard"
+     fullname="Keyboard"
+     family="Keyboard"
+     glyphs="/System/Library/Fonts/Keyboard.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LastResort"
+     fullname="LastResort"
+     family="LastResort"
+     glyphs="/System/Library/Fonts/LastResort.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Symbol"
+     fullname="Symbol"
+     family="Symbol"
+     glyphs="/System/Library/Fonts/Symbol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="ZapfDingbats"
+     fullname="Zapf Dingbats"
+     family="Zapf Dingbats"
+     glyphs="/System/Library/Fonts/ZapfDingbats.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXGeneral"
+     fullname="STIXGeneral-Regular"
+     family="STIXGeneral"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXGeneralB"
+     fullname="STIXGeneral-Bold"
+     family="STIXGeneral"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXGeneralBoldItalic"
+     fullname="STIXGeneral-BoldItalic"
+     family="STIXGeneral"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXGeneralI"
+     fullname="STIXGeneral-Italic"
+     family="STIXGeneral"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXNonUnicode"
+     fullname="STIXNonUnicode-Regular"
+     family="STIXNonUnicode"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXNonUnicodeB"
+     fullname="STIXNonUnicode-Bold"
+     family="STIXNonUnicode"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXNonUnicodeBoldItalic"
+     fullname="STIXNonUnicode-BoldItalic"
+     family="STIXNonUnicode"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXNonUnicodeI"
+     fullname="STIXNonUnicode-Italic"
+     family="STIXNonUnicode"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeFiveSym"
+     fullname="STIXSizeFiveSym-Regular"
+     family="STIXSizeFiveSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeFourSymB"
+     fullname="STIXSizeFourSym-Bold"
+     family="STIXSizeFourSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeFourSym"
+     fullname="STIXSizeFourSym-Regular"
+     family="STIXSizeFourSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeOneSymB"
+     fullname="STIXSizeOneSym-Bold"
+     family="STIXSizeOneSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeOneSym"
+     fullname="STIXSizeOneSym-Regular"
+     family="STIXSizeOneSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeThreeSymB"
+     fullname="STIXSizeThreeSym-Bold"
+     family="STIXSizeThreeSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeThreeSym"
+     fullname="STIXSizeThreeSym-Regular"
+     family="STIXSizeThreeSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeTwoSymB"
+     fullname="STIXSizeTwoSym-Bold"
+     family="STIXSizeTwoSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeTwoSym"
+     fullname="STIXSizeTwoSym-Regular"
+     family="STIXSizeTwoSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSans"
+     fullname="Bitstream Vera Sans"
+     family="Bitstream Vera Sans"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/Vera.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansBOb"
+     fullname="Bitstream Vera Sans Bold Oblique"
+     family="Bitstream Vera Sans"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraBI.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansB"
+     fullname="Bitstream Vera Sans Bold"
+     family="Bitstream Vera Sans"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraBd.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansOb"
+     fullname="Bitstream Vera Sans Oblique"
+     family="Bitstream Vera Sans"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraIt.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansMonoBOb"
+     fullname="Bitstream Vera Sans Mono Bold Oblique"
+     family="Bitstream Vera Sans Mono"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraMoBI.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansMonoB"
+     fullname="Bitstream Vera Sans Mono Bold"
+     family="Bitstream Vera Sans Mono"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraMoBd.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansMonoOb"
+     fullname="Bitstream Vera Sans Mono Oblique"
+     family="Bitstream Vera Sans Mono"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraMoIt.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansMono"
+     fullname="Bitstream Vera Sans Mono"
+     family="Bitstream Vera Sans Mono"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraMono.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSerif"
+     fullname="Bitstream Vera Serif"
+     family="Bitstream Vera Serif"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraSe.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSerifB"
+     fullname="Bitstream Vera Serif Bold"
+     family="Bitstream Vera Serif"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraSeBd.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmb10"
+     fullname="cmb10"
+     family="cmb10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmb10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmex10"
+     fullname="cmex10"
+     family="cmex10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmex10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmmi10"
+     fullname="cmmi10"
+     family="cmmi10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmr10"
+     fullname="cmr10"
+     family="cmr10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmr10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmss10"
+     fullname="cmss10"
+     family="cmss10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmss10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmsy10"
+     fullname="cmsy10"
+     family="cmsy10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmtt10"
+     fullname="cmtt10"
+     family="cmtt10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="mpltest"
+     fullname="mpltest"
+     family="mpltest"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/matplotlib/tests/mpltest.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXGeneral"
+     fullname="STIXGeneral-Regular"
+     family="STIXGeneral"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXGeneralB"
+     fullname="STIXGeneral-Bold"
+     family="STIXGeneral"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXGeneralBoldItalic"
+     fullname="STIXGeneral-BoldItalic"
+     family="STIXGeneral"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXGeneralI"
+     fullname="STIXGeneral-Italic"
+     family="STIXGeneral"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXNonUnicode"
+     fullname="STIXNonUnicode-Regular"
+     family="STIXNonUnicode"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXNonUnicodeB"
+     fullname="STIXNonUnicode-Bold"
+     family="STIXNonUnicode"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXNonUnicodeBoldItalic"
+     fullname="STIXNonUnicode-BoldItalic"
+     family="STIXNonUnicode"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXNonUnicodeI"
+     fullname="STIXNonUnicode-Italic"
+     family="STIXNonUnicode"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeFiveSym"
+     fullname="STIXSizeFiveSym-Regular"
+     family="STIXSizeFiveSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeFourSymB"
+     fullname="STIXSizeFourSym-Bold"
+     family="STIXSizeFourSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeFourSym"
+     fullname="STIXSizeFourSym-Regular"
+     family="STIXSizeFourSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeOneSymB"
+     fullname="STIXSizeOneSym-Bold"
+     family="STIXSizeOneSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeOneSym"
+     fullname="STIXSizeOneSym-Regular"
+     family="STIXSizeOneSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeThreeSymB"
+     fullname="STIXSizeThreeSym-Bold"
+     family="STIXSizeThreeSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeThreeSym"
+     fullname="STIXSizeThreeSym-Regular"
+     family="STIXSizeThreeSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeTwoSymB"
+     fullname="STIXSizeTwoSym-Bold"
+     family="STIXSizeTwoSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="STIXSizeTwoSym"
+     fullname="STIXSizeTwoSym-Regular"
+     family="STIXSizeTwoSym"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSans"
+     fullname="Bitstream Vera Sans"
+     family="Bitstream Vera Sans"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/Vera.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansBOb"
+     fullname="Bitstream Vera Sans Bold Oblique"
+     family="Bitstream Vera Sans"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraBI.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansB"
+     fullname="Bitstream Vera Sans Bold"
+     family="Bitstream Vera Sans"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraBd.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansOb"
+     fullname="Bitstream Vera Sans Oblique"
+     family="Bitstream Vera Sans"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraIt.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansMonoBOb"
+     fullname="Bitstream Vera Sans Mono Bold Oblique"
+     family="Bitstream Vera Sans Mono"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraMoBI.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansMonoB"
+     fullname="Bitstream Vera Sans Mono Bold"
+     family="Bitstream Vera Sans Mono"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraMoBd.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansMonoOb"
+     fullname="Bitstream Vera Sans Mono Oblique"
+     family="Bitstream Vera Sans Mono"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraMoIt.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSansMono"
+     fullname="Bitstream Vera Sans Mono"
+     family="Bitstream Vera Sans Mono"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraMono.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSerif"
+     fullname="Bitstream Vera Serif"
+     family="Bitstream Vera Serif"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraSe.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BitstreamVeraSerifB"
+     fullname="Bitstream Vera Serif Bold"
+     family="Bitstream Vera Serif"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/VeraSeBd.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmb10"
+     fullname="cmb10"
+     family="cmb10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmb10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmex10"
+     fullname="cmex10"
+     family="cmex10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmex10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmmi10"
+     fullname="cmmi10"
+     family="cmmi10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmr10"
+     fullname="cmr10"
+     family="cmr10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmr10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmss10"
+     fullname="cmss10"
+     family="cmss10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmss10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmsy10"
+     fullname="cmsy10"
+     family="cmsy10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="cmtt10"
+     fullname="cmtt10"
+     family="cmtt10"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="mpltest"
+     fullname="mpltest"
+     family="mpltest"
+     glyphs="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/tests/mpltest.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightDb"
+     fullname="Lucida Bright Demibold"
+     family="Lucida Bright"
+     glyphs="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/fonts/LucidaBrightDemiBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightDbI"
+     fullname="Lucida Bright Demibold Italic"
+     family="Lucida Bright"
+     glyphs="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/fonts/LucidaBrightDemiItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBrightI"
+     fullname="Lucida Bright Italic"
+     family="Lucida Bright"
+     glyphs="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/fonts/LucidaBrightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaBright"
+     fullname="Lucida Bright Regular"
+     family="Lucida Bright"
+     glyphs="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/fonts/LucidaBrightRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansDb"
+     fullname="Lucida Sans Demibold"
+     family="Lucida Sans"
+     glyphs="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/fonts/LucidaSansDemiBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSans"
+     fullname="Lucida Sans Regular"
+     family="Lucida Sans"
+     glyphs="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/fonts/LucidaSansRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansTypewriterB"
+     fullname="Lucida Sans Typewriter Bold"
+     family="Lucida Sans Typewriter"
+     glyphs="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/fonts/LucidaTypewriterBold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LucidaSansTypewriter"
+     fullname="Lucida Sans Typewriter Regular"
+     family="Lucida Sans Typewriter"
+     glyphs="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/fonts/LucidaTypewriterRegular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AppleFarrington7B"
+     fullname="Apple Farrington 7B"
+     family="Apple Farrington 7B"
+     glyphs="/System/Library/PrivateFrameworks/CoreRecognition.framework/Versions/A/Resources/Fonts/Apple-Farrington-7B-005.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Scancardium"
+     fullname="Scancardium"
+     family="Scancardium"
+     glyphs="/System/Library/PrivateFrameworks/CoreRecognition.framework/Versions/A/Resources/Fonts/Scancardium_2.0.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Coolvetica"
+     fullname="Coolvetica"
+     family="Coolvetica"
+     glyphs="/System/Library/PrivateFrameworks/Slideshows.framework/Versions/A/Resources/Content/Fonts/Coolvetica.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="HopperScript"
+     fullname="Hopper Script Regular"
+     family="Hopper Script"
+     glyphs="/System/Library/PrivateFrameworks/Slideshows.framework/Versions/A/Resources/Content/Fonts/HopperScript.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.homebrew/Cellar/ruby/2.1.1_1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.homebrew/Cellar/ruby/2.1.1_1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.homebrew/Cellar/ruby/2.1.1_1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.homebrew/Cellar/ruby/2.1.1_1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.homebrew/Cellar/ruby/2.1.1_1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.homebrew/Cellar/ruby/2.1.1_1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.2-p320/gems/twitter-bootstrap-rails-2.1.1/vendor/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Activa"
+     fullname="Activa"
+     family="Activa"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/bundler/gems/prawn-1f3810806839/data/fonts/Activa.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Chalkboard"
+     fullname="Chalkboard"
+     family="Chalkboard"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/bundler/gems/prawn-1f3810806839/data/fonts/Chalkboard.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSans"
+     fullname="DejaVu Sans"
+     family="DejaVu Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/bundler/gems/prawn-1f3810806839/data/fonts/DejaVuSans.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DustismoRoman"
+     fullname="Dustismo Roman"
+     family="Dustismo Roman"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/bundler/gems/prawn-1f3810806839/data/fonts/Dustismo_Roman.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="ComicSans"
+     fullname="Comic Sans MS"
+     family="Comic Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/bundler/gems/prawn-1f3810806839/data/fonts/comicsans.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="KaitiMGB"
+     fullname="AR PL KaitiM GB"
+     family="KaitiM GB"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/bundler/gems/prawn-1f3810806839/data/fonts/gkai00mp.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/compass-0.12.2/test/fixtures/fonts/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/font-awesome-sass-rails-3.0.2.2/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSans"
+     fullname="DejaVu Sans"
+     family="DejaVu Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/ttfunk-1.0.3/data/fonts/DejaVuSans.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="ComicSans"
+     fullname="Comic Sans MS"
+     family="Comic Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/ttfunk-1.0.3/data/fonts/comicsans.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="font"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@trade_stalker/gems/turbo-sprockets-rails3-0.3.2/test/fixtures/app/fonts/dir/font.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="font"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@trade_stalker/gems/turbo-sprockets-rails3-0.3.2/test/fixtures/app/fonts/font.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@we-find/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@we-find/gems/font-awesome-sass-rails-3.0.2.2/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="font"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p392@yt/gems/turbo-sprockets-rails3-0.3.5/test/fixtures/app/fonts/dir/font.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="font"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p392@yt/gems/turbo-sprockets-rails3-0.3.5/test/fixtures/app/fonts/font.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="font"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p0/gems/turbo-sprockets-rails3-0.3.2/test/fixtures/app/fonts/dir/font.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="font"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p0/gems/turbo-sprockets-rails3-0.3.2/test/fixtures/app/fonts/font.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/bootstrap-sass-3.1.1.1/vendor/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/compass-0.12.2/test/fixtures/fonts/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/compass-0.12.7/test/fixtures/fonts/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/font-awesome-rails-4.2.0.0/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/font-awesome-sass-rails-3.0.2.2/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/wysihtml5n-rails-0.0.4/vendor/assets/fonts/wysihtml5n/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@rostrplus/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@rostrplus/gems/compass-0.12.2/test/fixtures/fonts/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@rostrplus/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we-main/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we-main/gems/font-awesome-rails-4.0.3.0/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we_latest/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we_latest/gems/compass-0.12.2/test/fixtures/fonts/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we_latest/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/bootstrap-sass-3.1.0.2/vendor/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/bootstrap-sass-3.1.1.1/vendor/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="BloomingGrove"
+     fullname="Blooming Grove"
+     family="BloomingGrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/compass-0.12.2/test/fixtures/fonts/bgrove.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/font-awesome-sass-4.2.0/assets/fonts/font-awesome/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/twitter-bootstrap-rails-3.2.0/app/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/twitter-bootstrap-rails-3.2.0/app/assets/fonts/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/bootstrap-sass-3.1.1.1/vendor/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-awesome-sass-4.1.0/vendor/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DroidSansB"
+     fullname="Droid Sans Bold"
+     family="Droid Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/droid-sans/DroidSans-Bold-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DroidSans"
+     fullname="Droid Sans Regular"
+     family="Droid Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/droid-sans/DroidSans-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansB"
+     fullname="Open Sans Bold"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-Bold-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansBI"
+     fullname="Open Sans Bold Italic"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-BoldItalic-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansXb"
+     fullname="Open Sans Extrabold"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-ExtraBold-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansXbI"
+     fullname="Open Sans Extrabold Italic"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-ExtraBoldItalic-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansI"
+     fullname="Open Sans Italic"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-Italic-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansL"
+     fullname="Open Sans Light"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-Light-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansLI"
+     fullname="Open Sans Light Italic"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-LightItalic-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSans"
+     fullname="Open Sans Regular"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-Regular-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansSemibold"
+     fullname="Open Sans Semibold"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-Semibold-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="OpenSansSemiboldI"
+     fullname="Open Sans Semibold Italic"
+     family="Open Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/open-sans/OpenSans-SemiboldItalic-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PTSerif"
+     fullname="PT Serif Regular"
+     family="PT Serif"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/pt-serif/PTF55F-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PTSerifI"
+     fullname="PT Serif Italic"
+     family="PT Serif"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/pt-serif/PTF56F-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PTSerifB"
+     fullname="PT Serif Bold"
+     family="PT Serif"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/pt-serif/PTF75F-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PTSerifBI"
+     fullname="PT Serif Bold Italic"
+     family="PT Serif"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/pt-serif/PTF76F-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PTSerifCaption"
+     fullname="PT Serif Caption Regular"
+     family="PT Serif Caption"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/pt-serif/PTZ55F-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PTSerifCaptionI"
+     fullname="PT Serif Caption Italic"
+     family="PT Serif Caption"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/pt-serif/PTZ56F-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="UbuntuB"
+     fullname="Ubuntu Bold"
+     family="Ubuntu"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-B-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="UbuntuBI"
+     fullname="Ubuntu Bold Italic"
+     family="Ubuntu"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-BI-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="UbuntuC"
+     fullname="Ubuntu Condensed Regular"
+     family="Ubuntu Condensed"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-C-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="UbuntuL"
+     fullname="Ubuntu Light"
+     family="Ubuntu"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-L-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="UbuntuLI"
+     fullname="Ubuntu Light Italic"
+     family="Ubuntu"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-LI-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="UbuntuM"
+     fullname="Ubuntu Medium"
+     family="Ubuntu"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-M-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="UbuntuMI"
+     fullname="Ubuntu Medium Italic"
+     family="Ubuntu"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-MI-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Ubuntu"
+     fullname="Ubuntu Regular"
+     family="Ubuntu"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-R-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="UbuntuI"
+     fullname="Ubuntu Italic"
+     family="Ubuntu"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/font-kit-rails-1.0.2/app/assets/fonts/ubuntu/Ubuntu-RI-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="DejaVuSans"
+     fullname="DejaVu Sans"
+     family="DejaVu Sans"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1@stat/gems/ttfunk-1.2.0/data/fonts/DejaVuSans.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.2.0/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.2.0/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.2.0/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.2.0/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.2.0/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2/gems/rdoc-4.2.0/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@rails-beta/gems/bootstrap-sass-3.1.0.2/vendor/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@rails-beta/gems/font-awesome-sass-4.2.0/assets/fonts/font-awesome/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@rails-beta/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@rails-beta/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@rails-beta/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@rails-beta/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@rails-beta/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@rails-beta/gems/rdoc-4.1.2/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@stat/gems/bootstrap-sass-3.1.1.1/vendor/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@stat/gems/font-awesome-sass-4.1.0/vendor/assets/fonts/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.2@stat/gems/rdoc-4.1.1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="GLYPHICONSHalflings"
+     fullname="GLYPHICONS Halflings Regular"
+     family="GLYPHICONS Halflings"
+     glyphs="/Users/david/.rvm/gems/ruby-2.2.0/gems/bootstrap-sass-3.3.1.0/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.2.0/gems/font-awesome-sass-4.2.2/assets/fonts/font-awesome/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0-preview1/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0-preview1/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0-preview1/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0-preview1/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0-preview1/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/rubies/ruby-2.2.0-preview1/lib/ruby/2.2.0/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoL"
+     fullname="Lato-Light"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0-preview1/lib/rdoc/generator/template/darkfish/fonts/Lato-Light.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoLightItalic"
+     fullname="Lato-LightItalic"
+     family="Lato Light"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0-preview1/lib/rdoc/generator/template/darkfish/fonts/Lato-LightItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Lato"
+     fullname="Lato-Regular"
+     family="Lato"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0-preview1/lib/rdoc/generator/template/darkfish/fonts/Lato-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="LatoI"
+     fullname="Lato-Italic"
+     family="Lato"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0-preview1/lib/rdoc/generator/template/darkfish/fonts/Lato-RegularItalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodeProB"
+     fullname="Source Code Pro Bold"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0-preview1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="SourceCodePro"
+     fullname="Source Code Pro"
+     family="Source Code Pro"
+     glyphs="/Users/david/.rvm/src/ruby-2.2.0-preview1/lib/rdoc/generator/template/darkfish/fonts/SourceCodePro-Regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/matterhorn-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/matterhorn-bolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/matterhorn-italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/matterhorn-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/matterhorn-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/matterhorn-semibolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/serif/matterhornserif-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/serif/matterhornserif-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/maps/app/assets/stylesheets/type/serif/matterhornserif-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/code/disney/maps/vendor/assets/stylesheets/font/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn-bolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn-italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn-semibolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn_serif/matterhornserif-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn_serif/matterhornserif-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/matterhorn_serif/matterhornserif-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PlusIcons"
+     fullname="PlusIcons Regular"
+     family="PlusIcons"
+     glyphs="/Users/david/code/disney/rostr-plus/app/assets/fonts/plus_icons-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Anorexia"
+     fullname="Anorexia"
+     family="Anorexia"
+     glyphs="/Users/david/code/disney/rostr-web/vendor/jQuery/plugins/jquery-validation/demo/captcha/fonts/Anorexia.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn-bolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn-italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn-semibolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn_serif/matterhornserif-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn_serif/matterhornserif-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/tmp/20140210184529/app/assets/fonts/matterhorn_serif/matterhornserif-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn/matterhorn-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn/matterhorn-bolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn/matterhorn-italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn/matterhorn-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn/matterhorn-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn/matterhorn-semibolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn_serif/matterhornserif-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn_serif/matterhornserif-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/ui-patterns/css/type/matterhorn_serif/matterhornserif-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/code/disney/ui-patterns/vendor/font-awesome/font/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Anorexia"
+     fullname="Anorexia"
+     family="Anorexia"
+     glyphs="/Users/david/code/disney/ui-patterns/vendor/jQuery/plugins/jquery-validation/demo/captcha/fonts/Anorexia.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn-bolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn-italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn-semibolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn_serif/matterhornserif-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn_serif/matterhornserif-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/matterhorn_serif/matterhornserif-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PlusIcons"
+     fullname="PlusIcons Regular"
+     family="PlusIcons"
+     glyphs="/Users/david/code/disney/we-main/app/assets/fonts/plus_icons-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn-bold-5d88f70bb2f144356827168add3a7627.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn-bolditalic-facd18f4a2fd49a5c32761b4bef2f317.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn-italic-16ea915ae103d133f685d80794dbef5c.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn-regular-d45d19e7d52f210a8a3858bfbdab65ad.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn-semibold-2b049810b3fe2908ed5d524c464d1d59.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn-semibolditalic-65cef9be62f7e8f5084b7b4b70ebb552.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn_serif/matterhornserif-bold-c13a2f7825416d94af6fab51a78576aa.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn_serif/matterhornserif-regular-788e56643386a9d2b2613d34a5f7dac9.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-main/public/assets/matterhorn_serif/matterhornserif-semibold-842094ff3459ee133080b9f91afa1ef5.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="PlusIcons"
+     fullname="PlusIcons Regular"
+     family="PlusIcons"
+     glyphs="/Users/david/code/disney/we-main/public/assets/plus_icons-webfont-a07e4ed64c5e158ce97d99d773e58db2.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/matterhorn-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/matterhorn-bolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/matterhorn-italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/matterhorn-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/matterhorn-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/matterhorn-semibolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/serif/matterhornserif-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/serif/matterhornserif-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/app/assets/fonts/serif/matterhornserif-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/code/disney/we-search/public/assets/fontawesome-webfont-935598c5d0beac9b91304e0842c55646.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FontAwesome"
+     fullname="FontAwesome Regular"
+     family="FontAwesome"
+     glyphs="/Users/david/code/disney/we-search/public/assets/fontawesome-webfont.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-bold-14cc49217a46996a2e3bf965f9eceb0e.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-bolditalic-d36719370174943ace4d73286d0d9b8a.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-bolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-italic-30597829cfcfb60d9259569a66731f50.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornI"
+     fullname="Matterhorn Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-regular-66dd14b661ae1e235ffa8c7f48f748a9.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="Matterhorn"
+     fullname="Matterhorn Regular"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-semibold-fed885ccd69d45a1fd4be5ee2f142455.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornB"
+     fullname="Matterhorn Bold"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-semibolditalic-e6ab69279a92fc2fa595a5e10cf4908a.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornBI"
+     fullname="Matterhorn Bold Italic"
+     family="Matterhorn"
+     glyphs="/Users/david/code/disney/we-search/public/assets/matterhorn-semibolditalic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/public/assets/serif/matterhornserif-bold-d2e12443dc452275e983538e770129d0.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/public/assets/serif/matterhornserif-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/public/assets/serif/matterhornserif-regular-9ea04651ed343e160700f195bef0f3ce.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerif"
+     fullname="Matterhorn Serif Regular"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/public/assets/serif/matterhornserif-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/public/assets/serif/matterhornserif-semibold-cdbb43d43c97c11c8efa90a32e4cfae9.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="MatterhornSerifB"
+     fullname="Matterhorn Serif Bold"
+     family="Matterhorn Serif"
+     glyphs="/Users/david/code/disney/we-search/public/assets/serif/matterhornserif-semibold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AvenirNextLTW01B"
+     fullname="Avenir Next LT W01 Bold"
+     family=""
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/avenir-next-bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AvenirNextLTW01Demi"
+     fullname="Avenir Next LT W01 Demi"
+     family=""
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/avenir-next-demi.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AvenirNextLTW01M"
+     fullname="Avenir Next LT W01 Medium"
+     family=""
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/avenir-next-medium.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AvenirNextLTW01I"
+     fullname="Avenir Next LT W01 Italic"
+     family=""
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/avenir-next-regular-italic.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="AvenirNextLTW01"
+     fullname="Avenir Next LT W01 Regular"
+     family=""
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/avenir-next-regular.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FuturaHvBTH"
+     fullname="Futura Hv BT Heavy"
+     family="Futura Hv BT"
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/futura_hv_bt_heavy.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FuturaMdBTB"
+     fullname="Futura Md BT Bold"
+     family="Futura Md BT"
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/futura_md_bt_bold.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FuturaMdBTM"
+     fullname="Futura Md BT Medium"
+     family="Futura Md BT"
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/futura_md_bt_medium.ttf"
+     />
+
+  <type
+     format="ttf"
+     name="FuturaMdCnBTM"
+     fullname="Futura MdCn BT Medium"
+     family="Futura MdCn BT"
+     glyphs="/Users/david/code/qf/tda_trade_lab/app/assets/fonts/futura_mdcn_bt_medium.ttf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Applications/Airmail.app/Contents/Resources/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-LightI"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/CaeciliaLTStd-LightItalic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdB"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/CaeciliaLTStd-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdI"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/CaeciliaLTStd-Italic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Light"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/CaeciliaLTStd-Light.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-LightI"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/CaeciliaLTStd-LightItalic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Roman"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/CaeciliaLTStd-Roman.otf"
+     />
+
+  <type
+     format="otf"
+     name="GothamB"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/Gotham-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="GothamBI"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/Gotham-BoldItalic.otf"
+     />
+
+  <type
+     format="otf"
+     name="Gotham-Book"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/Gotham-Book.otf"
+     />
+
+  <type
+     format="otf"
+     name="Gotham-BookI"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/Gotham-BookItalic.otf"
+     />
+
+  <type
+     format="otf"
+     name="Gotham-Light"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/Gotham-Light.otf"
+     />
+
+  <type
+     format="otf"
+     name="Gotham-Medium"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Fonts/Gotham-Medium.otf"
+     />
+
+  <type
+     format="otf"
+     name="Gotham-Light"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Gotham-Light.otf"
+     />
+
+  <type
+     format="otf"
+     name="Gotham-Medium"
+     glyphs="/Applications/Evernote.app/Contents/PlugIns/ENCoverPage.bundle/Contents/Resources/Gotham-Medium.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdB"
+     glyphs="/Applications/Evernote.app/Contents/Resources/CaeciliaLTStd-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdI"
+     glyphs="/Applications/Evernote.app/Contents/Resources/CaeciliaLTStd-Italic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Light"
+     glyphs="/Applications/Evernote.app/Contents/Resources/CaeciliaLTStd-Light.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Roman"
+     glyphs="/Applications/Evernote.app/Contents/Resources/CaeciliaLTStd-Roman.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdB"
+     glyphs="/Applications/Evernote.app/Contents/Resources/Fonts/CaeciliaLTStd-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdI"
+     glyphs="/Applications/Evernote.app/Contents/Resources/Fonts/CaeciliaLTStd-Italic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Light"
+     glyphs="/Applications/Evernote.app/Contents/Resources/Fonts/CaeciliaLTStd-Light.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Roman"
+     glyphs="/Applications/Evernote.app/Contents/Resources/Fonts/CaeciliaLTStd-Roman.otf"
+     />
+
+  <type
+     format="otf"
+     name="Sentoj"
+     glyphs="/Applications/Evernote.app/Contents/Resources/Fonts/Sentoj-Regular.otf"
+     />
+
+  <type
+     format="otf"
+     name="Sentoj"
+     glyphs="/Applications/Evernote.app/Contents/Resources/Sentoj-Regular.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Applications/Screenhero.app/Contents/Resources/ui/lib/font-awesome-3.2.1/font/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdB"
+     glyphs="/Applications/Skitch.app/Contents/Resources/CaeciliaLTStd-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdI"
+     glyphs="/Applications/Skitch.app/Contents/Resources/CaeciliaLTStd-Italic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Light"
+     glyphs="/Applications/Skitch.app/Contents/Resources/CaeciliaLTStd-Light.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-LightI"
+     glyphs="/Applications/Skitch.app/Contents/Resources/CaeciliaLTStd-LightItalic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Roman"
+     glyphs="/Applications/Skitch.app/Contents/Resources/CaeciliaLTStd-Roman.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdB"
+     glyphs="/Applications/Skitch.app/Contents/Resources/Fonts/CaeciliaLTStd-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStdI"
+     glyphs="/Applications/Skitch.app/Contents/Resources/Fonts/CaeciliaLTStd-Italic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Light"
+     glyphs="/Applications/Skitch.app/Contents/Resources/Fonts/CaeciliaLTStd-Light.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-LightI"
+     glyphs="/Applications/Skitch.app/Contents/Resources/Fonts/CaeciliaLTStd-LightItalic.otf"
+     />
+
+  <type
+     format="otf"
+     name="CaeciliaLTStd-Roman"
+     glyphs="/Applications/Skitch.app/Contents/Resources/Fonts/CaeciliaLTStd-Roman.otf"
+     />
+
+  <type
+     format="otf"
+     name="AvenirLTStd-Heavy-1"
+     glyphs="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GeoServices.framework/AvenirLTStd-Heavy-1.otf"
+     />
+
+  <type
+     format="otf"
+     name="AvenirLTStd-HeavyOb-1"
+     glyphs="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GeoServices.framework/AvenirLTStd-HeavyOblique-1.otf"
+     />
+
+  <type
+     format="otf"
+     name="AvenirLTStd-LightOb-1"
+     glyphs="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GeoServices.framework/AvenirLTStd-LightOblique-1.otf"
+     />
+
+  <type
+     format="otf"
+     name="AvenirLTStd-Medium-1"
+     glyphs="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GeoServices.framework/AvenirLTStd-Medium-1.otf"
+     />
+
+  <type
+     format="otf"
+     name="AvenirLTStd-MediumOb-1"
+     glyphs="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GeoServices.framework/AvenirLTStd-MediumOblique-1.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/share/couchdb/www/fauxton/img/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="BebasNeue"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/BebasNeue.otf"
+     />
+
+  <type
+     format="otf"
+     name="Virtus"
+     glyphs="/Applications/iMovie.app/Contents/Frameworks/Flexo.framework/Versions/A/Resources/Fonts/Virtus-Regular.otf"
+     />
+
+  <type
+     format="otf"
+     name="KoreanDictionary"
+     glyphs="/Library/Dictionaries/Korean.dictionary/Contents/KoreanDictionary.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeo-ExtraB"
+     glyphs="/Library/Fonts/AppleSDGothicNeo-ExtraBold.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeo-Heavy"
+     glyphs="/Library/Fonts/AppleSDGothicNeo-Heavy.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeo-Light"
+     glyphs="/Library/Fonts/AppleSDGothicNeo-Light.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeo-Medium"
+     glyphs="/Library/Fonts/AppleSDGothicNeo-Medium.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeo-SemiB"
+     glyphs="/Library/Fonts/AppleSDGothicNeo-SemiBold.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeo-Thin"
+     glyphs="/Library/Fonts/AppleSDGothicNeo-Thin.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeo-UltraLight"
+     glyphs="/Library/Fonts/AppleSDGothicNeo-UltraLight.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXGeneral"
+     glyphs="/Library/Fonts/STIXGeneral.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXGeneralB"
+     glyphs="/Library/Fonts/STIXGeneralBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXGeneralBI"
+     glyphs="/Library/Fonts/STIXGeneralBolIta.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXGeneralI"
+     glyphs="/Library/Fonts/STIXGeneralItalic.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntDB"
+     glyphs="/Library/Fonts/STIXIntDBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntDReg"
+     glyphs="/Library/Fonts/STIXIntDReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntSmB"
+     glyphs="/Library/Fonts/STIXIntSmBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntSmReg"
+     glyphs="/Library/Fonts/STIXIntSmReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntUpB"
+     glyphs="/Library/Fonts/STIXIntUpBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntUpDB"
+     glyphs="/Library/Fonts/STIXIntUpDBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntUpDReg"
+     glyphs="/Library/Fonts/STIXIntUpDReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntUpReg"
+     glyphs="/Library/Fonts/STIXIntUpReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntUpSmB"
+     glyphs="/Library/Fonts/STIXIntUpSmBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXIntUpSmReg"
+     glyphs="/Library/Fonts/STIXIntUpSmReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXNonUni"
+     glyphs="/Library/Fonts/STIXNonUni.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXNonUniB"
+     glyphs="/Library/Fonts/STIXNonUniBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXNonUniBI"
+     glyphs="/Library/Fonts/STIXNonUniBolIta.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXNonUniI"
+     glyphs="/Library/Fonts/STIXNonUniIta.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizFiveSymReg"
+     glyphs="/Library/Fonts/STIXSizFiveSymReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizFourSymB"
+     glyphs="/Library/Fonts/STIXSizFourSymBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizFourSymReg"
+     glyphs="/Library/Fonts/STIXSizFourSymReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizOneSymB"
+     glyphs="/Library/Fonts/STIXSizOneSymBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizOneSymReg"
+     glyphs="/Library/Fonts/STIXSizOneSymReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizThreeSymB"
+     glyphs="/Library/Fonts/STIXSizThreeSymBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizThreeSymReg"
+     glyphs="/Library/Fonts/STIXSizThreeSymReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizTwoSymB"
+     glyphs="/Library/Fonts/STIXSizTwoSymBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXSizTwoSymReg"
+     glyphs="/Library/Fonts/STIXSizTwoSymReg.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXVar"
+     glyphs="/Library/Fonts/STIXVar.otf"
+     />
+
+  <type
+     format="otf"
+     name="STIXVarB"
+     glyphs="/Library/Fonts/STIXVarBol.otf"
+     />
+
+  <type
+     format="otf"
+     name="SignPainter"
+     glyphs="/Library/Fonts/SignPainter.otf"
+     />
+
+  <type
+     format="otf"
+     name="WawaSC"
+     glyphs="/Library/Fonts/WawaSC-Regular.otf"
+     />
+
+  <type
+     format="otf"
+     name="WawaTC"
+     glyphs="/Library/Fonts/WawaTC-Regular.otf"
+     />
+
+  <type
+     format="otf"
+     name="WeibeiSCB"
+     glyphs="/Library/Fonts/WeibeiSC-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="WeibeiTCB"
+     glyphs="/Library/Fonts/WeibeiTC-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="YuppySC"
+     glyphs="/Library/Fonts/YuppySC-Regular.otf"
+     />
+
+  <type
+     format="otf"
+     name="YuppyTC"
+     glyphs="/Library/Fonts/YuppyTC-Regular.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeoB"
+     glyphs="/System/Library/Fonts/AppleSDGothicNeo-Bold.otf"
+     />
+
+  <type
+     format="otf"
+     name="AppleSDGothicNeo"
+     glyphs="/System/Library/Fonts/AppleSDGothicNeo-Regular.otf"
+     />
+
+  <type
+     format="otf"
+     name="HiraKakuInterface-W1"
+     glyphs="/System/Library/Fonts/HiraKakuInterface-W1.otf"
+     />
+
+  <type
+     format="otf"
+     name="HiraKakuInterface-W2"
+     glyphs="/System/Library/Fonts/HiraKakuInterface-W2.otf"
+     />
+
+  <type
+     format="otf"
+     name="Prociono"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/Prociono.otf"
+     />
+
+  <type
+     format="otf"
+     name="bgrove"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@tastytrade/gems/font-awesome-sass-rails-3.0.2.2/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@we-find/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-1.9.3-p327@we-find/gems/font-awesome-sass-rails-3.0.2.2/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="Prociono"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/Prociono.otf"
+     />
+
+  <type
+     format="otf"
+     name="bgrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/font-awesome-rails-4.2.0.0/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247/gems/font-awesome-sass-rails-3.0.2.2/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="Prociono"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@rostrplus/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/Prociono.otf"
+     />
+
+  <type
+     format="otf"
+     name="bgrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@rostrplus/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@rostrplus/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we-main/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we-main/gems/font-awesome-rails-4.0.3.0/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="Prociono"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we_latest/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/Prociono.otf"
+     />
+
+  <type
+     format="otf"
+     name="bgrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we_latest/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.0.0-p247@we_latest/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="Prociono"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/Prociono.otf"
+     />
+
+  <type
+     format="otf"
+     name="bgrove"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/compass-0.12.2/examples/css3/extensions/fancy-fonts/templates/project/bgrove.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/.rvm/gems/ruby-2.1.1/gems/font-awesome-rails-3.2.1.3/app/assets/fonts/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/code/disney/maps/vendor/assets/stylesheets/font/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/code/disney/ui-patterns/vendor/font-awesome/font/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome-1d229610087757fc419ab05fc359bf10"
+     glyphs="/Users/david/code/disney/we-search/public/assets/FontAwesome-1d229610087757fc419ab05fc359bf10.otf"
+     />
+
+  <type
+     format="otf"
+     name="FontAwesome"
+     glyphs="/Users/david/code/disney/we-search/public/assets/FontAwesome.otf"
+     />
+
+  <type
+     format="otf"
+     name="FuturaLTPro-Medium"
+     glyphs="/Users/david/code/qf/tda_trade_lab/dough-phonegap/Dough/Resources/FuturaLTPro-Medium.otf"
+     />
+
+</typemap>

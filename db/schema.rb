@@ -11,12 +11,12 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150316150707) do
+ActiveRecord::Schema.define(version: 20150604132814) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "addresses", force: :cascade do |t|
+  create_table "locations", force: :cascade do |t|
     t.string   "street_address"
     t.string   "city"
     t.string   "state"
@@ -26,6 +26,7 @@ ActiveRecord::Schema.define(version: 20150316150707) do
     t.integer  "restaurant_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "known_as"
   end
 
   create_table "ratings", force: :cascade do |t|
@@ -39,6 +40,13 @@ ActiveRecord::Schema.define(version: 20150316150707) do
   create_table "restaurants", force: :cascade do |t|
     t.string   "name",        limit: 255
     t.text     "description"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "ultimate_ratings", force: :cascade do |t|
+    t.integer  "location_id"
+    t.boolean  "recommended"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

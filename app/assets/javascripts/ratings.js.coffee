@@ -1,3 +1,10 @@
+$(document).on "click", "[data-role='ultimate-rater']", (e) ->
+  e.preventDefault()
+  target = $("[data-role='ultimate-rating-value-holder']")
+  value = $(this).data("value")
+  target.val(value)
+  target.closest("form").submit()
+
 $(document).on "ready page:load", ->
   $("[data-role='slider']").slider
     min: 0

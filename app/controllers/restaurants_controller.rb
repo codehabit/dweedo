@@ -8,7 +8,22 @@ class RestaurantsController < ApplicationController
 
   def new
     @restaurant = Restaurant.new
-    @restaurant.addresses.build if @restaurant.addresses.blank?
+    @restaurant.locations.build
+  end
+
+  def edit
+    @restaurant = Restaurant.find(params[:id])
+  end
+
+  def update
+    @restaurant = Restaurant.find(params[:id])
+    @restaurant.attributes = restaurant_params
+    if @restaurant.valid?
+      @restaurant.save
+      redirect_to restaurant_path(@restaurant)
+    else
+      render action: :edit
+    end
   end
 
   def create

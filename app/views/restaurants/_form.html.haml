@@ -1,0 +1,13 @@
+= bootstrap_form_for @restaurant do |f|
+  = f.text_field :name, placeholder: "Name", hide_label: true
+  = f.text_area :description, placeholder: "Description", hide_label: true
+  %h4
+    Add a location
+  = f.fields_for :locations do |location_form|
+    = location_form.text_field :known_as, placeholder: "Known as", hide_label: true
+    = location_form.text_field :street_address, placeholder: "Street address", hide_label: true
+    = location_form.text_field :city, placeholder: "City", hide_label: true
+    = location_form.text_field :state, placeholder: "State", hide_label: true
+    = location_form.text_field :zip_code, placeholder: "Zip code", hide_label: true
+  = f.submit "Get started"
+

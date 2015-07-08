@@ -1,7 +1,13 @@
-= @restaurant.name
-= @restaurant.description
-- @restaurant.addresses.each do |address|
-  = address.street_address
-  = address.city
-  = address.state
-  = address.zip_code
+%h3
+  = @restaurant.name
+%em
+  = @restaurant.description
+
+%h3 Locations
+.well.col-lg-2
+  %ul.unstyled
+    - @restaurant.locations.each do |location|
+      %li= location.known_as
+      %li= location.street_address
+      %li= "#{location.city}, #{location.state}"
+      %li= location.zip_code

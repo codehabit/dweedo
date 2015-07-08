@@ -1,0 +1,10 @@
+.hero-column
+  - if @rating.recommended?
+    %h3
+      We're so glad you like us! Come again soon!
+  - else
+    %h3
+      Sorry to hear that :(
+      =# What can we do to make it better next time?
+      =# text_area_tag
+

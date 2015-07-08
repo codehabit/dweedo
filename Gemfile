@@ -20,6 +20,7 @@ gem 'settingslogic'
 gem 'font-awesome-sass'
 gem 'bootstrap_form'
 gem 'puma'
+gem 'gruff'
 
 group :development do
   gem 'spring'
