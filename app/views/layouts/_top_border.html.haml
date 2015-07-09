@@ -1,0 +1,23 @@
+%nav.navbar.navbar-default{:role => "navigation"}
+  .brand-slot
+    = link_to root_path do
+      .navbar-brand
+  .links-bar
+    .navbar-header
+      = button_tag "", class: "navbar-toggle collapsed", data: {target: "[data-role='navbar']", toggle: "collapse"} do
+        %span.sr-only Toggle navigation
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
+    .collapse.navbar-collapse{data: {role: "navbar"}}
+      %ul.nav.navbar-nav
+        %li
+          = link_to "About", "#"
+        %li
+          = link_to "Restaurants", restaurants_path
+        %li
+          = link_to "Jobs", "#"
+      %ul.nav.navbar-nav.navbar-right
+        %li
+          = link_to "Sign in", "#"
+

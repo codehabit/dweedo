@@ -1,0 +1,14 @@
+.col-lg-12
+  .col-lg-6
+    %h3= "Rate your visit at #{@restaurant.name} - #{@location.known_as}"
+    = bootstrap_form_for @location do |f|
+      = f.hidden_field :location_id, value: @location.id
+      .row
+        .col-lg-5
+          %h3
+            Would you recommend #{@restaurant.name} (#{@location.known_as}) to a friend?
+          = f.fields_for :ultimate_ratings do |ratings_builder|
+            = ratings_builder.check_box :recommended, label: "You bet!", value: true
+            = ratings_builder.check_box :recommended, label: "Don't think so :(", value: false
+
+

@@ -1,0 +1,16 @@
+- Build proper POC
+  - QR code approach
+  - Lincoln Square
+  - Printing
+  Technical tasks
+    - Pie chart
+    - Manager view
+    - Register a restaurant
+    - Date params (This Month, Last Three Months, This year, etc)
+    - Ultimate Question
+    - User sessions
+  - Call Deb (Anderson)
+- Future ideas
+  - External facing results
+    - Pay for slots on dweedu.com
+

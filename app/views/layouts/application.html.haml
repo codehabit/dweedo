@@ -1,0 +1,10 @@
+!!!
+%html
+  = render 'layouts/head'
+  %body.remodal-bg
+    .container
+      = render 'layouts/header'
+      = render "layouts/alert"
+      .main-business
+        = yield
+
