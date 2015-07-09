@@ -10,9 +10,15 @@ class LocationsController < ApplicationController
   end
 
   def update
-    @location = Location.find params[:id]
-    @rating = UltimateRating.new(location_params[:ultimate_rating])
-    @location.ultimate_ratings << @rating
+    begin
+      @location = Location.find params[:id]
+      @rating = UltimateRating.new(location_params[:ultimate_rating])
+      @location.ultimate_ratings << @rating
+    rescue Exception => e
+      puts e.message
+      puts e.backtrace.join("\n")
+    end
+
   end
 
   private
